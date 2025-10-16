@@ -11,7 +11,8 @@ I renewed this repository to keep it clean and organized (the first upload had s
 
 1. Run the Python file in your terminal or any IDE:
    ```bash
-   python number_guessing_game.py ```
+   python number_guessing_game.py 
+   ```
 
 2. The computer will think of a number between 1 and 10.
 
